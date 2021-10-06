@@ -1,0 +1,7 @@
+{
+  "name": "MobileWalpaper",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
